@@ -10,7 +10,7 @@ Start here
 
 CSS Regions
 ---
-  - [Overview](html.adobe.com/webplatform/layout/regions/)
+  - [Overview](http://html.adobe.com/webplatform/layout/regions/)
   - [How to enable in browsers](http://html.adobe.com/webplatform/enable/)
   - [Basic samples on CodePen](http://codepen.io/collection/jabto)
   - [CSS Regions spec on W3C](http://www.w3.org/TR/css3-regions/)
